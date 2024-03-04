@@ -65,7 +65,7 @@
     "nconf": "0.10.0",
     "prompt": "1.0.0",
     "pug": "2.0.0-rc.4",
-    "uglify-js": "3.3.12",
+    "uglify-js": "3.17.4",
     "cookie-parser": "latest",
     "uuid": "latest"
   },
