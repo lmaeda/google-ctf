@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@asciidoctor/core": "^2.2.6",
-    "asciidoctor": "^2.2.6",
+    "@asciidoctor/core": "^3.0.0",
+    "asciidoctor": "^3.0.0",
     "autoprefixer": "10.4.14",
     "cookie": "^0.5.0",
     "crypto-js": "^4.1.1",
