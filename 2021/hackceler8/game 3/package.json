@@ -4,7 +4,7 @@
   "description": "Just another JS game",
   "main": "backend.js",
   "dependencies": {
-    "bufferutil": "^4.0.1",
+    "bufferutil": "^4.0.8",
     "express": "^4.17.1",
     "express-session": "^1.17.1",
     "utf-8-validate": "^5.0.2",
