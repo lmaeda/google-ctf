@@ -3,7 +3,7 @@
     "@google-cloud/pubsub": "^4.0.0",
     "cookie-parser": "^1.4.3",
     "express": "^4.16.3",
-    "forever": "^0.15.3",
+    "forever": "^4.0.0",
     "sse": "0.0.8",
     "uuid": "^3.2.1"
   }
