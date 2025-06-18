@@ -3,7 +3,7 @@ attrs==21.4.0
 cffi==1.15.0
 numpy==1.22.4
 Pillow==9.1.1
-protobuf==3.20.1
+protobuf==4.25.8
 pycparser==2.21
 pyglet==2.0.dev16
 pymunk==6.2.1
