@@ -5,7 +5,7 @@
  "dependencies": {
   "domino": "=2.0.2",
   "express": "=4.16.3",
-  "vm2": "=3.6.0",
+  "vm2": "3.10.0",
   "memcached-promisify": "latest",
   "uuid": "latest",
   "cookie-parser": "latest"
