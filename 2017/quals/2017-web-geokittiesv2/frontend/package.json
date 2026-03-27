@@ -10,7 +10,7 @@
   },
   "dependencies" : {
     "httpdispatcher": "0.4.0",
-    "htmlparser2": "3.9.2",
+    "htmlparser2": "3.10.1",
     "uuid": "latest",
     "express-recaptcha": "~2.1.0",
     "@google-cloud/datastore": "~1.0.0",
